@@ -1,3 +1,7 @@
 # hello-world
 just a simple  repository
-你好，我叫林鹏，毕业于浙江大学城市学院，目前尝试不同的工作。
+hello word!
+I am linpeng
+I graduated from Zhejiang University City College
+I have tried different jobs
+I am looking for a stable job
